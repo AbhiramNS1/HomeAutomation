@@ -1,0 +1,14 @@
+
+.parent{
+    user-select: none;
+    width:25vw;
+    min-width:10px;
+    background-color: #472183;
+    height: 100vh;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    color: white;
+}

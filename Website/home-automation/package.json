@@ -18,6 +18,9 @@
     "mongodb": "^4.13.0",
     "next": "13.1.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-spinners": "^0.13.7",
+    "react-toastify": "^9.1.1",
+    "react-toggle": "^4.1.3"
   }
 }
